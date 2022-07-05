@@ -68,6 +68,16 @@ p {
     max-height: 200px;
 }
 
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.search-engine-float {
+    float: left;
+    margin-right: 25px;
+}
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -75,6 +85,20 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .social-media-marketing {
@@ -86,29 +110,18 @@ p {
     color: #ffffff;
 }
 
-
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
 .social-media-marketing img {
     max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.social-float {
+    float: left;
+    margin-right: 25px;
 }
 
 footer {
@@ -119,15 +132,7 @@ footer {
 }
 
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .content {
     width: 75%;
