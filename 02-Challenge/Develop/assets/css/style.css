@@ -64,6 +64,10 @@ p {
     color: #ffffff;
 }
 
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -82,9 +86,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
+
 
 .online-reputation-management img {
     max-height: 200px;
