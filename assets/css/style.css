@@ -33,7 +33,7 @@ header h1 {
 }
 
 .header-list li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
